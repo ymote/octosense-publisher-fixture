@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "subtitle": "Quick notes kept on your device",
+  "description": "A publishing acceptance fixture. Add and remove local notes while testing GitHub release provenance and App Hub admission. No account, network, or model access.",
+  "category": "productivity",
+  "keywords": [
+    "notes",
+    "example"
+  ],
+  "screenshots": [
+    "screenshots/01-main.png"
+  ],
+  "icon": "assets/icon.svg",
+  "platforms": [
+    "macos"
+  ],
+  "publisher": {
+    "name": "OctoSense publishing acceptance",
+    "support": "https://github.com/ymote/octosense-publisher-fixture/issues",
+    "privacy_policy_url": "https://github.com/ymote/octosense-publisher-fixture/blob/main/PRIVACY.md"
+  },
+  "release_notes": "First publishing acceptance fixture.",
+  "age_rating": "all",
+  "license": "Apache-2.0"
+}

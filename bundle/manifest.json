@@ -1,0 +1,12 @@
+{
+  "capabilities": [
+    "storage"
+  ],
+  "id": "dev.octosense.publisher-fixture",
+  "integrity": {
+    "bundle_blake3": "93a829744375f68b89c203eb11e57f7ed682dda37d19b076e7959abf94714f12"
+  },
+  "name": "Publishing Test Notes",
+  "schema": 1,
+  "version": "0.1.0"
+}
