@@ -19,7 +19,7 @@
     "support": "https://github.com/ymote/octosense-publisher-fixture/issues",
     "privacy_policy_url": "https://github.com/ymote/octosense-publisher-fixture/blob/main/PRIVACY.md"
   },
-  "release_notes": "First publishing acceptance fixture.",
+  "release_notes": "Second version for keyless GitHub update-continuity acceptance.",
   "age_rating": "all",
   "license": "Apache-2.0"
 }

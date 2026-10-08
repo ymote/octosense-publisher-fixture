@@ -4,9 +4,9 @@
   ],
   "id": "dev.octosense.publisher-fixture",
   "integrity": {
-    "bundle_blake3": "93a829744375f68b89c203eb11e57f7ed682dda37d19b076e7959abf94714f12"
+    "bundle_blake3": "77f07f3e28f547a0a8ef6a5f20d98119002c2350d498119b75da661aef09e5fd"
   },
   "name": "Publishing Test Notes",
   "schema": 1,
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
